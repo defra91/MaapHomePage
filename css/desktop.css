@@ -1,0 +1,43 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: 'Georgia';
+	color: #676767;
+}
+
+p {
+	font-size: 1em;
+	text-align: justify;
+	line-height: 1.7em;	
+}
+
+div#header {
+	margin: 0 auto;
+	width: 1024px;
+	padding: 2%;
+}
+
+div#content {
+	margin: 0 auto;
+	width: 1024px;
+	padding: 2%;
+}
+
+ul#navigation {
+	list-style: none;
+}
+
+div#header h2 {
+	text-align: right;
+}
+
+h1#logo {
+	text-align: right;
+}
+
+h1#logo img {
+	width: 25%;
+}
